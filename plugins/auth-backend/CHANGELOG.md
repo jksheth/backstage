@@ -1,5 +1,15 @@
 # @backstage/plugin-auth-backend
 
+## 0.15.0-next.3
+
+### Patch Changes
+
+- a70869e775: Updated dependency `msw` to `^0.43.0`.
+- Updated dependencies
+  - @backstage/backend-common@0.14.1-next.3
+  - @backstage/catalog-client@1.0.4-next.2
+  - @backstage/plugin-auth-node@0.2.3-next.2
+
 ## 0.15.0-next.2
 
 ### Patch Changes
